@@ -1,0 +1,33 @@
+question_id|option_id|option|point
+11|a|Vao buoi sang|2
+11|b|Vao buoi chieu va chom toi|4
+11|c|vao dem muon|6
+12|a|kha nhanh voi buoc chan dai|6
+12|b|kha nhanh voi buoc chan ngan|4
+12|c|khong nhanh lam, dau ngang cao huong mat ra ca the gioi|7
+12|d|khong nhanh lam, dau cui xuong|2
+12|e|rat cham|1
+31|a|dung, khoanh tay|4
+31|b|siet chat hai ban tay|2
+31|c|dat mot hoc ca hai tay len hong|5
+31|d|cham hoac day nguoi doi thoai|7
+31|e|so tai, xoa cam hoac nghich toc|6
+43|a|dau goi cong,hai chan khep sat vao nhau|4
+43|b|hai chan bat cheo nhau|6
+43|c|hai chan duoi thang|2
+43|d|khoanh chan|1
+15|a|cuoi lon|5
+15|b|cuoi, nhung khong cuoi lon|4
+15|c|cuoi lang le|3
+15|d|cuoi ben len nguong ngung|5
+26|a|gay on ao khi den de moi nguoi chu y|6
+26|b|den lang le va tim nguoi quen biet|4
+26|c|buoc vao mot cach lang le nhat, co gang khong bi chu y|2
+17|a|chao don "ke pha dam"|6
+17|b|Cam thay that su kho chiu|2
+17|c|Mo ho giua hai thai cuc|4
+38|a|Do hoac Da Cam|6
+38|b|Den|7
+38|c|Vang hoac xanh nhat|5
+38|d|Xanh la cay|4
+38|e|Xanh tham hoac tim|3
