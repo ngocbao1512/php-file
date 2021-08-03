@@ -1,0 +1,7 @@
+min|max|result
+0|20|Nguoi khac nghi ban la nguoi nhut nhat , hay boi roi va thieu quyet doan, mot nguoi can duoc cham soc quan tam luon muon nguoi khac nhuong minh
+21|30|Ban be cua ban coi ban la nguoi kho chiu va cau ky. ho thay ban rat than trong vo cung can than, can cu cham chi cham raix lucs xu lys cong viec
+31|40|nguoi khac coi ban la nguoi nhay cam, than trong, can than vaf thuc dung. ho thay o ban su thong minh, tai nang hon nguoi
+41|50|nguoi khac coi ban la nguoi luon tuoi moi, vui ve, hap dan, thu vi, thuc dung, motj nguoi luon la tam diem cua su vui ve
+51|60|nguoi khac coi ban la nguoi de bi kich dong, rat de thay doi, kha boc dong; mot lanh dao bam sinh,  quyet dinh
+61|200|nguoi khac luon coi ban la nguoi ma ho nen " can than khi tiep xuc". ban kieu ngao, luon coi minh la trung tam, va luon muon nguoi khac de y den minh
